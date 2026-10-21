@@ -16,7 +16,7 @@ The small tools you reach for all day, in one panel in your menu bar. Made for m
 </p>
 
 <p align="center">
-  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.17</b></a><br>
+  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.18</b></a><br>
   ✓ 14-day free trial &nbsp; ✓ Pay once, keep it &nbsp; ✓ No account<br>
   <sub>For macOS 26 or later</sub>
 </p>
