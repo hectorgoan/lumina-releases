@@ -16,7 +16,7 @@ The small tools you reach for all day, in one panel in your menu bar. Made for m
 </p>
 
 <p align="center">
-  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.19</b></a><br>
+  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.20</b></a><br>
   ✓ 14-day free trial &nbsp; ✓ Pay once, keep it &nbsp; ✓ No account<br>
   <sub>For macOS 26 or later</sub>
 </p>
@@ -96,7 +96,7 @@ Lumina updates itself. It checks when it opens and every six hours, and shows a 
 
 ## Privacy
 
-Lumina has no account and collects nothing. Everything it shows is worked out on your Mac. The only thing it fetches is this page's update information.
+Lumina has no account. Everything it shows is worked out on your Mac. Apart from this page's update information, it sends one small anonymous note a day so its developer can count how many Macs use it: a random ID, whether you're on the trial or licensed, and the Lumina and macOS versions. Never your name, email or anything on your Mac. Turn it off in **…** › **Settings…** › **Share Anonymous Usage**.
 
 ## Help
 
