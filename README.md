@@ -16,7 +16,7 @@ The small tools you reach for all day, in one panel in your menu bar. Made for m
 </p>
 
 <p align="center">
-  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.18</b></a><br>
+  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.19</b></a><br>
   ✓ 14-day free trial &nbsp; ✓ Pay once, keep it &nbsp; ✓ No account<br>
   <sub>For macOS 26 or later</sub>
 </p>
@@ -29,7 +29,7 @@ Click Lumina's icon in the menu bar and everything is there, in tiles you can ar
 - **Know your Mac.** See its vitals with **System**, every battery from your Mac to your AirPods with **Batteries**, what's slowing it down with **Top Processes**, and what's filling your disk with **Storage**.
 - **Keep it tidy.** Free up space with **Cleanup**, remove apps and everything they leave behind with **Uninstaller**, close everything at once with **Quit All**, and sleep, mute or empty the Trash with **Quick Actions**.
 - **At a glance.** Control what's playing with **Media**, keep the time in other cities with **World Clocks**, and switch between light and dark with **Appearance**.
-- **Make it yours.** Add, hide, resize and rearrange tiles, and tuck the ones you use less into a **More** section.
+- **Make it yours.** Add, hide, resize and rearrange tiles, and tuck the ones you use less into a **More** section. Tiles sit on Liquid Glass, and the panel can be glass or frosted.
 
 ## Features
 
@@ -92,7 +92,7 @@ Some utilities ask for a permission the first time you use them (for example, Ke
 
 ## Updates
 
-Lumina updates itself. It checks when it opens and every six hours, and shows a banner at the top of its panel when a new version is ready. You can also choose **…** › **Check for Updates…**.
+Lumina updates itself. It checks when it opens and every six hours, and shows a banner at the top of its panel when a new version is ready. You can also choose **…** › **Check for Updates…**. After an update, the panel shows what's new.
 
 ## Privacy
 
