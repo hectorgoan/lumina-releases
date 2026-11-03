@@ -16,7 +16,7 @@ The small tools you reach for all day, in one panel in your menu bar. Made for m
 </p>
 
 <p align="center">
-  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.23</b></a><br>
+  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.24</b></a><br>
   ✓ 14-day free trial &nbsp; ✓ Pay once, keep it &nbsp; ✓ No account<br>
   <sub>For macOS 26 or later</sub>
 </p>
@@ -76,10 +76,9 @@ Click Lumina's icon in the menu bar and everything is there, in tiles you can ar
 ## Install
 
 1. Download **[Lumina.zip](https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip)** and open it.
-2. Drag **Lumina** into your **Applications** folder, then open it.
-3. The first time, macOS says it can't check Lumina for malicious software, because Lumina isn't distributed through the App Store. Open **System Settings › Privacy & Security**, scroll down, and click **Open Anyway** next to the message about Lumina.
+2. Drag **Lumina** into your **Applications** folder, then open it. Lumina is notarized by Apple, so it opens like any other app.
 
-You only need to do this once. Lumina's icon appears in the menu bar; click it to open the panel.
+Lumina's icon appears in the menu bar; click it to open the panel.
 
 Some utilities ask for a permission the first time you use them (for example, Keyboard Lock needs Accessibility). macOS shows the prompt.
 
