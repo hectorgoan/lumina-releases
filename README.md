@@ -9,14 +9,14 @@ The small tools you reach for all day, in one panel in your menu bar. Made for m
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="marketing/hero-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="marketing/hero-light.jpg">
-    <img src="marketing/hero-dark.jpg" alt="Lumina's panel open below its menu bar icon, with its utilities laid out like Control Center" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="marketing/captured-hero-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="marketing/captured-hero-light.jpg">
+    <img src="marketing/captured-hero-dark.jpg" alt="Lumina's panel open below its menu bar icon, with its utilities laid out like Control Center" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.24</b></a><br>
+  <a href="https://github.com/hectorgoan/lumina-releases/releases/latest/download/Lumina.zip"><b>⬇︎ Download Lumina 0.1.25</b></a><br>
   ✓ 14-day free trial &nbsp; ✓ Pay once, keep it &nbsp; ✓ No account<br>
   <sub>For macOS 26 or later</sub>
 </p>
@@ -48,11 +48,19 @@ Click Lumina's icon in the menu bar and everything is there, in tiles you can ar
 <td width="50%"><a href="marketing/features/media.jpg"><img src="marketing/features/media.jpg" alt="Media: What’s playing, at hand."></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="marketing/features/top-processes.jpg"><img src="marketing/features/top-processes.jpg" alt="Top Processes: See what’s keeping your Mac busy."></a></td>
-<td width="50%"><a href="marketing/features/storage.jpg"><img src="marketing/features/storage.jpg" alt="Storage: See what’s filling your disk."></a></td>
+<td width="50%"><a href="marketing/features/calendar.jpg"><img src="marketing/features/calendar.jpg" alt="Calendar: Your day, at a glance."></a></td>
+<td width="50%"><a href="marketing/features/reminders.jpg"><img src="marketing/features/reminders.jpg" alt="Reminders: Check it off, right there."></a></td>
 </tr>
 <tr>
+<td width="50%"><a href="marketing/features/sticky-notes.jpg"><img src="marketing/features/sticky-notes.jpg" alt="Sticky Notes: Jot it down, right there."></a></td>
+<td width="50%"><a href="marketing/features/top-processes.jpg"><img src="marketing/features/top-processes.jpg" alt="Top Processes: See what’s keeping your Mac busy."></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="marketing/features/storage.jpg"><img src="marketing/features/storage.jpg" alt="Storage: See what’s filling your disk."></a></td>
 <td width="50%"><a href="marketing/features/system.jpg"><img src="marketing/features/system.jpg" alt="System: Your Mac’s vitals."></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="marketing/features/window-manager.jpg"><img src="marketing/features/window-manager.jpg" alt="Window Manager: Windows, right where you want them."></a></td>
 <td width="50%"><a href="marketing/features/appearance.jpg"><img src="marketing/features/appearance.jpg" alt="Appearance: Light or dark, instantly."></a></td>
 </tr>
 <tr>
@@ -99,4 +107,4 @@ Lumina has no account. Everything it shows is worked out on your Mac. Apart from
 
 ## Help
 
-Questions or problems? [Email the developer](mailto:hectorgoan@gmail.com?subject=Lumina).
+Questions or problems? [Email the developer](mailto:hello@hectorgoan.com?subject=Lumina).
